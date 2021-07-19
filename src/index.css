@@ -31,3 +31,18 @@ main {
   background: #f9f9f9;
   border-radius: 10px;
 }
+
+.sub-header{
+  font-size: x-large;
+  color: gray;
+}
+
+.patient-container{
+  margin: auto;
+  width: 500px;
+}
+
+.card{
+  margin: 20px 0;
+  padding: 10px;
+}
